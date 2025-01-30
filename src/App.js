@@ -4,9 +4,9 @@ import UserProfile from './UserProfile';
 
 const App = () => {
   const user = {
-    name: 'John Doe',
-    age: 28,
-    location: 'New York, USA',
+    name: 'Neel patel',
+    age: 21,
+    location: 'Surat,Gujarat',
     bio: 'A passionate software developer who loves coding and problem-solving.'
   };
 
